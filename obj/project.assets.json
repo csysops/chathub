@@ -1242,11 +1242,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/debian/proj/SignalRChatServer/SignalRChatServer.csproj",
+      "projectUniqueName": "/Users/debian/Documents/chathub/SignalRChatServer.csproj",
       "projectName": "SignalRChatServer",
-      "projectPath": "/Users/debian/proj/SignalRChatServer/SignalRChatServer.csproj",
+      "projectPath": "/Users/debian/Documents/chathub/SignalRChatServer.csproj",
       "packagesPath": "/Users/debian/.nuget/packages/",
-      "outputPath": "/Users/debian/proj/SignalRChatServer/obj/",
+      "outputPath": "/Users/debian/Documents/chathub/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/debian/.nuget/NuGet/NuGet.Config"

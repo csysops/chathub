@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oLNtGVG9Xt4=",
+  "dgSpecHash": "62njqm5kwxw=",
   "success": true,
-  "projectFilePath": "/Users/debian/proj/SignalRChatServer/SignalRChatServer.csproj",
+  "projectFilePath": "/Users/debian/Documents/chathub/SignalRChatServer.csproj",
   "expectedPackageFiles": [
     "/Users/debian/.nuget/packages/firebaseadmin/3.4.0/firebaseadmin.3.4.0.nupkg.sha512",
     "/Users/debian/.nuget/packages/google.api.commonprotos/2.17.0/google.api.commonprotos.2.17.0.nupkg.sha512",
@@ -39,9 +39,9 @@
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference Microsoft.AspNetCore.SignalR will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
-      "projectPath": "/Users/debian/proj/SignalRChatServer/SignalRChatServer.csproj",
+      "projectPath": "/Users/debian/Documents/chathub/SignalRChatServer.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/debian/proj/SignalRChatServer/SignalRChatServer.csproj",
+      "filePath": "/Users/debian/Documents/chathub/SignalRChatServer.csproj",
       "libraryId": "Microsoft.AspNetCore.SignalR",
       "targetGraphs": [
         "net10.0"
@@ -51,9 +51,9 @@
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference Microsoft.AspNetCore.SignalR.Core will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
-      "projectPath": "/Users/debian/proj/SignalRChatServer/SignalRChatServer.csproj",
+      "projectPath": "/Users/debian/Documents/chathub/SignalRChatServer.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/debian/proj/SignalRChatServer/SignalRChatServer.csproj",
+      "filePath": "/Users/debian/Documents/chathub/SignalRChatServer.csproj",
       "libraryId": "Microsoft.AspNetCore.SignalR.Core",
       "targetGraphs": [
         "net10.0"
