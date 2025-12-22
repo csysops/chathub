@@ -3,6 +3,7 @@
 *.db
 bin/
 obj/
+publish/
 
 # dependencies
 node_modules/
